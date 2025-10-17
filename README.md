@@ -1,5 +1,5 @@
 #Pub Eligibility Checker
-This Python program is a simple yet interactive **age verification system** designed to determine if a user is eligible to enter a pub based on a defined minimum age requirement. It simulates a real-world user interaction scenario while showcasing core programming concepts like **loops**, **conditional logic**, and **exception handling** in Python.
+#This Python program is a simple yet interactive **age verification system** designed to determine if a user is eligible to enter a pub based on a defined minimum age requirement. It simulates a real-world user interaction scenario while showcasing core programming concepts like **loops**, **conditional logic**, and **exception handling** in Python.
 
 ### 🧾 **Project Description**
 
